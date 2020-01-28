@@ -1,9 +1,9 @@
 theme: jekyll-theme-leap-day
 # Site settings
-title: 王梦浩的博客 # 你的博客名字，可以定义修订
+title: 凌波微步 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"
-description: "2020年农历新年，下定决心要定下来了，开个博客纪念一下"  # 一句话描述你的博客
+description: "2020年农历新年，终于定下来了，开个博客纪念一下"  # 一句话描述你的博客
 baseurl: ""
 url: "https://www.wangmenghao.com"  # 此处填写你的博客地址
 
@@ -14,7 +14,7 @@ owner:
   bio: "Just record" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/time.jpeg # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
